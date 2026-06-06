@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Masoud Nasiri
 
-<!--
-**nasiri-m/nasiri-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Architect building tools for architects.**
 
-Here are some ideas to get you started:
+I'm an architect working at the intersection of architecture, design technology, and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My projects focus on improving architectural workflows through automation, custom tools, and new approaches to digital design.
+
+## Current Focus
+
+### CAD Automation
+
+Developing AutoLISP tools and utilities for AutoCAD to simplify repetitive drafting and production tasks.
+
+### Design Technology
+
+Building plugins, scripts, and workflow tools for Blender, 3ds Max, and other architectural software using Python.
+
+### AI for Architecture
+
+Exploring practical applications of language models and AI-assisted workflows for architects and designers.
+
+### Architectural Software Research
+
+Developing a pen-centric web application that rethinks how architectural ideas are captured, explored, and evolved throughout the design process.
+
+## Technologies
+
+* AutoLISP / Visual LISP
+* Python
+* HTML
+* CSS
+* JavaScript
+* TypeScript
+
+## Philosophy
+
+> Architects should not only use tools — they should be able to build them.
+
+I believe architects can play an active role in shaping the software they use every day, creating workflows and tools that better reflect the way design actually happens.
