@@ -1,4 +1,4 @@
-# Hi, I'm Masoud Nasiri 👋
+# Hi, I'm Masoud Nasiri
 
 **Architect building tools for architects.**
 
